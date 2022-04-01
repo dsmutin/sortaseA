@@ -1,4 +1,4 @@
-setwd("C:/R/bee/pm_datasets")
+setwd(" ")
 
 ##---
 
@@ -145,4 +145,4 @@ result <- convert_files (files, 120, draw = 2, normalized = T, path = "./plots/b
 #Name - name of the term column
 #Min_all - minimum quantity of all articles
 #Min_smp - minimum quantity of the term articles 
-no_data ("A_mellifera_virus", 200, 10)
+no_data ("output", 200, 10)
