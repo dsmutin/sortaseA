@@ -26,4 +26,5 @@ Output:
 
 # Список литературы к решению задачи:
 
+в файле "список литературы" или по ссылке
 docs.google.com/document/d/1o4ajGMDmPcoqgWEbVe4YViv8rwp5iRMQjg9SNUQBGS0/edit?usp=sharing
